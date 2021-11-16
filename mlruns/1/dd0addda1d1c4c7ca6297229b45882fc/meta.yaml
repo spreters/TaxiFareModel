@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/magnus/code/spreters/TaxiFareModel/mlruns/1/dd0addda1d1c4c7ca6297229b45882fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: dd0addda1d1c4c7ca6297229b45882fc
+run_uuid: dd0addda1d1c4c7ca6297229b45882fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637070662888
+status: 1
+tags: []
+user_id: unknown

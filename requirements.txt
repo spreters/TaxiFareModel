@@ -9,6 +9,10 @@ numpy
 pandas
 scikit-learn
 
+# training tracking
+mlflow
+memoized_property
+
 # tests/linter
 black
 coverage
